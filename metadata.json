@@ -1,0 +1,6 @@
+{
+  "name": "Smart Wearable & Fitness Hub",
+  "description": "智慧穿戴與運動追蹤平台，整合即時生理數據、GPS軌跡分析、睡眠修復模型、Gemini AI 智慧運動教練、遊戲化成就勳章系統與一鍵運動打卡海報生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
